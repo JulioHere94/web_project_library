@@ -316,6 +316,7 @@
 
 .step {
   max-width: 220px;
+  flex-basis: 220px;
 }
 
 .step__title {
@@ -384,12 +385,13 @@
   text-decoration: none;
   align-items: center;
   margin-top: 0;
+  display: flex;
+  column-gap: 10px;
 }
 
 .footer__social-icon {
   width: 16px;
   height: 16px;
-  margin-right: 10px;
   vertical-align: baseline;
 }
 
