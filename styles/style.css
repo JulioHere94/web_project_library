@@ -383,7 +383,7 @@
 .footer__column-link {
   text-decoration: none;
   align-items: center;
-  margin-top: ;
+  margin-top: 0;
 }
 
 .footer__social-icon {
